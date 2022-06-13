@@ -1,4 +1,4 @@
-from matplotlib.pyplot import title
+from matplotlib import pyplot as plt
 import pandas as pd
 import numpy as np
 import altair as alt
